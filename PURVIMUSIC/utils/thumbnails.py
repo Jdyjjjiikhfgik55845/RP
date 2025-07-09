@@ -85,8 +85,8 @@ async def get_thumb(videoid):
         bold_font = ImageFont.truetype("PURVIMUSIC/assets/font.ttf", 33)
 
         # Top-right "text"
-        text_size = draw.textsize("JANI MUSIC    ", font=font)
-        draw.text((1280 - text_size[0] - 10, 10), "JANI BOTS    ", fill="yellow", font=font)
+        text_size = draw.textsize("JANI BOTS    ", font=font)
+        draw.text((1280 - text_size[0] - 10, 10), "JANI MUSIC    ", fill="yellow", font=font)
 
         # Channel name + Views 
         draw.text(
