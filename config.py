@@ -14,13 +14,13 @@ EVAL = list(map(int, getenv("EVAL", "7716352578 7091230649").split()))
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Ownergit")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Jani_RP_Lover")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "ISTKHARkoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ISTKHARko")
+BOT_NAME = getenv("BOT_NAME" , "Jani")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "JaniMusic")
 # ---------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
@@ -38,7 +38,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/IstkharXrobot/NhiPta",
+    "https://github.com/Jdyjjjiikhfgik55845/RP",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -47,8 +47,8 @@ GIT_TOKEN = getenv(
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots7ed2dc') # youtube song api ke
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ARISHFA_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+PaEtaAu9DI9mYzc9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Chatting")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jani_Chatting")
 # ------------------------------------------------------------------------------
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
@@ -78,8 +78,8 @@ votemode = {}
 autoclean = []
 confirmer = {}
 # ------------------------------------------------------------------------
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/u15ml3.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/u15ml3.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
